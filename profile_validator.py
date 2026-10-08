@@ -60,5 +60,5 @@ print(f'Ends with .com: {ends_with_com}')
 dot_count = clean_email.count('.')
 dash_count = employee_code.count('-')
 
-print(f'Dots in email: {dot_count}')
-print(f'Dashes in code: {dash_count}')
+print(f'Dots in the email: {dot_count}')
+print(f'Dashes in the code: {dash_count}')
