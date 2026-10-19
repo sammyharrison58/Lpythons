@@ -88,3 +88,6 @@ def validate(data):
     return True
 
 validate(medical_records)
+if __name__ == "__main__":
+    pass
+    
